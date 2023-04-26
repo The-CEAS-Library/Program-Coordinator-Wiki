@@ -1,0 +1,90 @@
+Hello everyone,
+
+Thanks for registering for the ‘Introduction to Python - Part 1’ workshop, scheduled for Monday, 3/27/2023, from 10 AM to 12 PM at Digital Future Building Room 262. The workshop will be taught by Dhruv Singh.
+
+To get there, you can take the elevator to the 2nd floor, turn right, walk down the hallway, the classroom will be on the left.
+
+Please note that there is a parking garage under the Digital Futures building , rates begin at $4 for a half hour.
+If you have an existing parking permit to another garage on campus, you have full reciprocity to park across the street at the Winslow Lot across 1819 Innovation Hub. See attached map for reciprocity lot location.
+
+Digital Futures is also serviced by two UC Campus Shuttles during the grand opening: CCM Plaza and MainStreet/1819. These shuttles can be tracked in real time using the Transloc App or visiting: http://uc.doublemap.com/map/.
+
+This is the first workshop in a series of five Python workshops being taught on ARC Cluster. Learn the basics of Python, a widely used and general-purpose programming language. Python is useful for a wide range of applications, including data processing, parsing, web services, and more. This workshop is on the basics of Python, including strings, lists, tuples, sets, dictionaries, and comparators.  Beginners are encouraged to attend, and no prior programming experience is required. 
+Please have Google Chrome (preferred) or Mozilla Firefox web browser installed.
+
+For supplemental information, please see the instructions for connecting to the ARC Cluster on our Python guide, which can be accessed through this link: http://guides.libraries.uc.edu/python. The instructions can be found under the "Accessing ARC Cluster" tab, and we highly recommend reviewing them prior to the workshop.
+
+If you have any further questions, do not hesitate to reach out to me or our instructor, Dhruv Singh (singhdv@mail.uc.edu). 
+
+Hello everyone,
+
+Thanks for registering for the ‘Introduction to Python - Part 2’ workshop, scheduled for Tuesday, 3/28/2023, from 10 AM to 12 PM at Digital Future Building Room 262. The workshop will be taught by Dhruv Singh.
+
+To get there, you can take the elevator to the 2nd floor, turn right, walk down the hallway, the classroom will be on the left.
+
+Please note that there is a parking garage under the Digital Futures building , rates begin at $4 for a half hour.
+If you have an existing parking permit to another garage on campus, you have full reciprocity to park across the street at the Winslow Lot across 1819 Innovation Hub. See attached map for reciprocity lot location.
+
+Digital Futures is also serviced by two UC Campus Shuttles during the grand opening: CCM Plaza and MainStreet/1819. These shuttles can be tracked in real time using the Transloc App or visiting: http://uc.doublemap.com/map/.
+
+This is the second workshop in a series of five Python workshops being taught on ARC Cluster. This workshop deals with more basics of Python, which includes control flow, loops, functions and variable scope. Beginners are encouraged to attend, and Introduction to Python - Part 1 is recommended.  
+Please have Google Chrome (preferred) or Mozilla Firefox web browser installed.
+
+For supplemental information, please see the instructions for connecting to the ARC Cluster on our Python guide, which can be accessed through this link: http://guides.libraries.uc.edu/python. The instructions can be found under the "Accessing ARC Cluster" tab, and we highly recommend reviewing them prior to the workshop.
+
+If you have any further questions, do not hesitate to reach out to me or our instructor, Dhruv Singh (singhdv@mail.uc.edu). 
+
+Hello everyone,
+
+Thanks for registering for the ‘Intermediate Python’ workshop, scheduled for Wednesday, 3/29/2023, from 10 AM to 12 PM at Digital Future Building Room 262. The workshop will be taught by Dhruv Singh.
+
+To get there, you can take the elevator to the 2nd floor, turn right, walk down the hallway, the classroom will be on the left.
+
+Please note that there is a parking garage under the Digital Futures building , rates begin at $4 for a half hour.
+If you have an existing parking permit to another garage on campus, you have full reciprocity to park across the street at the Winslow Lot across 1819 Innovation Hub. See attached map for reciprocity lot location.
+
+Digital Futures is also serviced by two UC Campus Shuttles during the grand opening: CCM Plaza and MainStreet/1819. These shuttles can be tracked in real time using the Transloc App or visiting: http://uc.doublemap.com/map/.
+
+This is the third workshop in a series of five Python workshops being taught on ARC Cluster. Intermediate Python builds on the topics of the "Introduction to Python" workshops. Basic knowledge of Python or attending the "Introduction to Python" beginner workshops is strongly recommended.  Topics will include: Modules, Imports, Classes/Objects, Packages, Libraries, and File I/O.   
+Please have Google Chrome (preferred) or Mozilla Firefox web browser installed.
+
+For supplemental information, please see the instructions for connecting to the ARC Cluster on our Python guide, which can be accessed through this link: http://guides.libraries.uc.edu/python. The instructions can be found under the "Accessing ARC Cluster" tab, and we highly recommend reviewing them prior to the workshop.
+
+If you have any further questions, do not hesitate to reach out to me or our instructor, Dhruv Singh (singhdv@mail.uc.edu). 
+
+Hello everyone,
+
+Thanks for registering for the ‘Data Analysis with Python’ workshop, scheduled for Thursday, 3/30/2023, from 10 AM to 12 PM at Digital Future Building Room 262. The workshop will be taught by Dhruv Singh.
+
+To get there, you can take the elevator to the 2nd floor, turn right, walk down the hallway, the classroom will be on the left.
+
+Please note that there is a parking garage under the Digital Futures building , rates begin at $4 for a half hour.
+If you have an existing parking permit to another garage on campus, you have full reciprocity to park across the street at the Winslow Lot across 1819 Innovation Hub. See attached map for reciprocity lot location.
+
+Digital Futures is also serviced by two UC Campus Shuttles during the grand opening: CCM Plaza and MainStreet/1819. These shuttles can be tracked in real time using the Transloc App or visiting: http://uc.doublemap.com/map/.
+
+The Python workshops being taught on ARC Cluster. Basic knowledge of Python or attendance of the previous workshops is strongly recommended. We will work with a data file using the Pandas and Numpy packages. Some topics that will be covered include exploring a Pandas dataframe object, dataframe and series slicing and indexing, querying dataframes, running statistics on dataframes, grouping and aggregations on dataframes and making basic plots with Pandas.  
+Please have Google Chrome (preferred) or Mozilla Firefox web browser installed.
+
+For supplemental information, please see the instructions for connecting to the ARC Cluster on our Python guide, which can be accessed through this link: http://guides.libraries.uc.edu/python. The instructions can be found under the "Accessing ARC Cluster" tab, and we highly recommend reviewing them prior to the workshop.
+
+If you have any further questions, do not hesitate to reach out to me or our instructor, Dhruv Singh (singhdv@mail.uc.edu). 
+
+Hello everyone,
+
+Thanks for registering for the ‘Data Visualization with Python’ workshop, scheduled for Friday, 3/31/2023, from 10 AM to 12 PM at Digital Future Building Room 262. The workshop will be taught by Dhruv Singh.
+
+To get there, you can take the elevator to the 2nd floor, turn right, walk down the hallway, the classroom will be on the left.
+
+Please note that there is a parking garage under the Digital Futures building , rates begin at $4 for a half hour.
+If you have an existing parking permit to another garage on campus, you have full reciprocity to park across the street at the Winslow Lot across 1819 Innovation Hub. See attached map for reciprocity lot location.
+
+Digital Futures is also serviced by two UC Campus Shuttles during the grand opening: CCM Plaza and MainStreet/1819. These shuttles can be tracked in real time using the Transloc App or visiting: http://uc.doublemap.com/map/.
+
+This is the fifth workshop in the series of five Python workshops being taught on ARC Cluster. Attending the prior workshops and experience with Python or any other programming language is strongly encouraged. This workshop focuses on three visualization libraries, matplotlib, pandas, and seaborn. Beginners are encouraged to attend the first four workshops, before attending the Data Visualization. 
+Please have Google Chrome (preferred) or Mozilla Firefox web browser installed.
+
+For supplemental information, please see the instructions for connecting to the ARC Cluster on our Python guide, which can be accessed through this link: http://guides.libraries.uc.edu/python. The instructions can be found under the "Accessing ARC Cluster" tab, and we highly recommend reviewing them prior to the workshop.
+
+If you have any further questions, do not hesitate to reach out to me or our instructor, Dhruv Singh (singhdv@mail.uc.edu). 
+
