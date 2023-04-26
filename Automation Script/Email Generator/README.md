@@ -11,7 +11,7 @@ This program generates an email to workshop participants based on the type of wo
     * Date of the workshop (MM/DD/YYYY)
     * Instructor name (optional)
 3. If the workshops are online, the program will need to read from the link_id.txt file follow the written format 
-4. The program will generate an email for the workshop participants.
+4. The program will generate an email for the workshop participants and output it into email.txt file.
 
 ## Features:
 
